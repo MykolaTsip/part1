@@ -1,0 +1,40 @@
+{
+  "name": "part1",
+  "version": "1.0.0",
+  "dependencies": {
+    "bcrypt": "^5.0.0",
+    "chalk": "^4.1.0",
+    "cors": "^2.8.5",
+    "dayjs": "^1.9.4",
+    "dotenv": "^8.2.0",
+    "email-templates": "^7.1.2",
+    "express": "^4.17.1",
+    "express-fileupload": "^1.2.0",
+    "express-handlebars": "^5.2.0",
+    "fs": "0.0.1-security",
+    "fs-extra": "^9.0.1",
+    "joi": "^17.2.1",
+    "jsonwebtoken": "^8.5.1",
+    "morgan": "^1.10.0",
+    "mysql": "^2.18.1",
+    "mysql2": "^2.2.5",
+    "node-cron": "^2.0.3",
+    "nodemailer": "^6.4.14",
+    "os": "^0.1.1",
+    "path": "^0.12.7",
+    "sequelize": "^6.3.5",
+    "until": "^0.1.1",
+    "uuid": "^8.3.1",
+    "winston": "^3.3.3"
+  },
+  "devDependencies": {
+    "@types/sequelize": "^4.28.9",
+    "sequelize-cli": "^6.2.0",
+    "@types/joi": "^14.3.4",
+    "@types/email-templates": "^7.1.0",
+    "@types/nodemailer": "^6.4.0",
+    "@types/uuid": "^8.3.0",
+    "@types/cors": "^2.8.8",
+    "@types/winston": "^2.4.4"
+  }
+}

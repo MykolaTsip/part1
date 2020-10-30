@@ -1,0 +1,35 @@
+{
+  "message": "not allowed by CORS",
+  "level": "error"
+}
+{
+   "level": "error"
+ }
+{
+  "message": "not allowed by CORS",
+  "level": "error"
+}
+{
+  "level": "error"
+}
+{
+  "message": "not allowed by CORS",
+  "level": "error"
+}
+{
+  "level": "error"
+}
+{
+  "message": "not allowed by CORS",
+  "level": "error"
+}
+{
+  "level": "error"
+}
+{
+  "message": "not allowed by CORS",
+  "level": "error"
+}
+{
+  "level": "error"
+}
